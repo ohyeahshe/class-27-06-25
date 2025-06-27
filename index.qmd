@@ -1,0 +1,10 @@
+---
+title: "Race and Income"
+---
+
+```{r}
+library(tidyverse)
+
+nyc_data <- read_csv("https://raw.githubusercontent.com/PPBDS/primer.data/master/data-raw/nyc_tracts.csv")
+
+```
